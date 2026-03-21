@@ -1,0 +1,51 @@
+idx1,idx2,cosine_score,tier,Product A,Merchant A,Product B,Merchant B
+10201,10202,1.0000001,Auto-Match,hp intel xeon e5506 2.13ghz 4mb smart cache processor,14,hp intel xeon e5506 2.13ghz 4mb smart cache processor,66
+29069,29072,0.95897603,Auto-Match,swan sr11020rn 70/30 fridge freezer red,7,swan sr11020rn retro tall fridge freezer red,22
+20802,20806,1.0,Auto-Match,blomberg lri285411 integrated 8kg/5kg 1400 spin washer dryer a rated,132,blomberg lri285411 integrated 8kg/5kg 1400 spin washer dryer a rated,133
+18430,18488,0.95067436,Auto-Match,beko dis15010 integrated 45cm 10 place slimline dishwasher,152,beko dis15011 10 place slimline fully integrated dishwasher,15
+20556,20848,0.96125644,Auto-Match,hotpoint wmeuf743g 1400rpm 7kg freestanding washing machine graphite,293,hotpoint wmaqf721g aquarius 7kg 1200rpm freestanding washing machine graphite,15
+9647,9696,0.9887371,Auto-Match,intel xeon processor e5 2418l v2 15m cache 2.00 ghz 2ghz 15mb smart cache,45,intel xeon processor e5 2430l v2 15m cache 2.40 ghz 2.4ghz 15mb smart cache,64
+322,323,1.0,Auto-Match,apple iphone 6s plus silver 128gb 5.5 4g unlocked sim free,5,apple iphone 6s plus silver 128gb 5.5 4g unlocked sim free,6
+21896,21952,0.98469657,Auto-Match,belling fw814 8kg 1400rpm freestanding washing machine white,6,belling fw914 9kg 1400rpm freestanding washing machine white,15
+24309,24315,0.9931228,Auto-Match,beko uf584apw under counter freezer white,22,beko uf584apw white under counter freezer,293
+27317,27320,1.0000005,Auto-Match,samsung rl4362fbasl 471l freestanding fridge freezer stainless steel,6,samsung rl4362fbasl 471l freestanding fridge freezer stainless steel,15
+33468,33470,0.99159735,Auto-Match,smeg fab5rwh 40cm white small 50 s style right hand hinged minibar,6,smeg fab5rwh 40cm white small 50 s style righthand hinged minibar,293
+16921,19734,0.95348835,Auto-Match,bosch sms46iw09g/sms46iw09g,98,bosch sms46gw00e,119
+26227,27245,0.96639824,Auto-Match,bosch kgn34nw3ag frost free fridge freezer,132,bosch kgn39xl35g frost free fridge freezer,130
+31909,31910,0.9942272,Auto-Match,samsung rr39m7340bc/eu frost free tall larder fridge with non plumbed water dispenser black,1,samsung rr39m7340bc/eu frost free tall larder fridge with non plumbed water dispenser in black,132
+28779,28996,0.9523535,Auto-Match,amica fk3213df freestanding fridge freezer 60 cm white,17,amica fk1964 50/50 153l freestanding fridge freezer white,6
+26457,30596,0.97799164,Auto-Match,hisense rb385n4ew1 frost free fridge freezer,132,hisense rb292f4wb1 frost free fridge freezer,153
+98,100,0.98666966,Auto-Match,apple iphone x 64 gb silver,7,apple iphone x 64gb silver,10
+25675,25971,0.9635292,Auto-Match,liebherr built under freezer uig1313,294,uig1313 liebherr freezer built under,344
+27659,27865,0.99379325,Auto-Match,beko cfg1552w fridge freezer white,7,beko cfg1582w fridge freezer white,22
+19372,19373,0.9999996,Auto-Match,miele g 6265 scvi xxl 60cm fully integrated tall height dishwasher stainless steel,294,miele g 6265 scvi xxl 60cm fully integrated tall height dishwasher stainless steel,293
+32637,33488,0.9816286,Auto-Match,liebherr ik2324 fridges,294,liebherr ik1624 fridges,293
+33612,33613,0.9977659,Auto-Match,smeg fab5rpg 40cm pastel green small 50 s styleright hand hinged minibar,294,smeg fab5rpg 40cm pastel green small 50 s style right hand hinged minibar,6
+12082,12085,1.0,Auto-Match,nikon a900 coolpix compact system camera silver,17,nikon a900 coolpix compact system camera silver,3
+25280,25473,0.9515122,Auto-Match,lec cf150lw mk2 chest freezer,322,lec cf250lw chest freezer,129
+9761,9789,1.0000001,Auto-Match,hp amd opteron 6238 2.6ghz 16mb l3 processor,14,hp amd opteron 6238 2.6ghz 16mb l3 processor,64
+9288,10125,0.97273064,Auto-Match,intel xeon e7 4820 processor 2 ghz 18 mb smart cache,14,intel xeon e7 4860 processor 2.26 ghz 24 mb smart cache,66
+26863,26867,0.9782668,Auto-Match,bosch kgn34nl3ag 50/50 fridge freezer stainless steel,7,bosch kgn34nl3ag serie 2 60/40 fridge freezer stainless steel,294
+14550,14689,0.98274845,Auto-Match,bosch hmt75m421b,134,bosch hmt75m451b,290
+24666,24669,1.0000002,Auto-Match,cda fw881 integrated full height single door fridge,294,cda fw881 integrated full height single door fridge,293
+20959,21078,0.955441,Auto-Match,whirlpool supreme care washing machine in white fscr 90430,293,whirlpool supreme care core fscr 90420 washing machine white,3
+4625,4714,0.9906253,Auto-Match,panasonic tx 49fx750b 49 4k ultra hd hdr led smart tv with 5 year warranty,6,panasonic tx 49fx700b 49 4k ultra hd hdr led smart tv with 5 year warranty,15
+309,1170,0.9833801,Auto-Match,apple iphone 6s 32gb space grey,4,iphone 6 32gb space grey,42
+1151,1170,0.9595151,Auto-Match,apple iphone 6 16gb space grey,10,iphone 6 32gb space grey,42
+26270,31621,0.9721165,Auto-Match,bosch frost free fridge freezer kgn33nw3ag,293,bosch kgn36vw31g frost free fridge freezer,313
+12680,12852,0.9504162,Auto-Match,olympus om d e m10 mark ii compact system camera body in black,3,olympus om d e m1 mark ii compact system camera black,17
+20365,23553,0.9547914,Auto-Match,bosch washing machine 9kg 1600rpm waw325h0gb,293,bosch wap28378gb 8kg 1400rpm washing machine,163
+21158,22674,0.9539057,Auto-Match,bosch wab24161gb 1200 spin washing machine,130,bosch wap24390gb 8kg 1200 spin washing machine,179
+5291,5294,0.97920394,Auto-Match,lg oled77c8lla 77 hdr 4k ultra hd smart television,132,lg oled77c8lla 77 4k ultra hd hdr smart oled tv,32
+9133,9134,1.0000002,Auto-Match,intel core i3 i3 3250 dual core 2 core 3.50 ghz processor,73,intel core i3 i3 3250 dual core 2 core 3.50 ghz processor,79
+11217,11218,0.9999999,Auto-Match,hewlett packard enterprise xeon e5506 2.13ghz 4mb l3 box processor,14,hewlett packard enterprise xeon e5506 2.13ghz 4mb l3 box processor,64
+5453,5821,0.9520683,Auto-Match,cello c75ansmt 4k 75 4k ultra hd smart tv wi fi white led tv,14,cello p65ansmt 4k 65 4k ultra hd smart tv wi fi black led tv,45
+33,36,0.9551203,Auto-Match,apple iphone 7 plus 5.5 single sim 4g 3gb 32gb 2900mah silver,11,apple iphone 7 plus 5.5 single sim 4g 3gb 32gb 2900mah pink gold,14
+20097,22548,0.95149755,Auto-Match,siemens extraklasse wm14t492gb 9kg 1400 spin washing machine white a rated,133,siemens wm14t690gb a rated 9kg 1400rpm spin washing machine in white,32
+25442,25616,0.9503996,Auto-Match,frigidaire freezer frf60w,186,frigidaire frcf185w freezer,161
+12490,12492,1.0000004,Auto-Match,fujifilm x h1 body only black,3,fujifilm x h1 body only black,17
+31880,31886,0.96311235,Auto-Match,hotpoint rla36p 1 60cm undercounter larder fridge in white 0 85m a,128,hotpoint rla36p 60cm undercounter larder fridge in white,293
+32293,32295,0.96896696,Auto-Match,beko tall larder tl577apw refrigerator,294,beko tl577apw tall larder fridge,129
+34130,34131,1.0,Auto-Match,liebherr ikb3554 premium,294,liebherr ikb3554 premium,293
+18057,18058,1.0000001,Auto-Match,aeg fss52615z 13 place fully integrated dishwasher,6,aeg fss52615z 13 place fully integrated dishwasher,15
+11351,11352,1.0000001,Auto-Match,eisenhower military commanders,17,eisenhower military commanders,3
